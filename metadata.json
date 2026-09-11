@@ -1,0 +1,6 @@
+{
+  "name": "Health Guide BD",
+  "description": "স্বাস্থ্য টিপস, পুষ্টি ও সুস্থ জীবনযাপনের নির্ভরযোগ্য তথ্য ও প্রবন্ধ। Health Guide BD delivers trusted health tips, wellness advice, and content management in Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
